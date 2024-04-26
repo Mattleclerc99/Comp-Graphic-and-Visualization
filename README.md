@@ -1,1 +1,11 @@
-# Comp-Graphic-and-Visualization
+How do I approach designing software?
+  This project got me starting software design approaches with clarity about the problem, hence breaking it down for iteratively refining the solutions. Learning about OpenGL was a blast! The project has assisted me in the structuring of code, management of dependencies, and organization of components, among others, which are imperative in the structuring of code and therefore in coming up with a good project of complex systems. My design process included ideation, decomposition of components, and their iterative refinement to make sure that the end product met all the needs. I intend to do these in all my subsequent work so as to build strong and scalable solutions efficiently.
+
+How do I approach developing programs?
+  Software development is all about understanding the needs and breaking them down into tasks, and then implementing these tasks iteratively. During the development of my 3D scene, I applied modularization, optimization, and versioning as ways of handling the needed complexity. Iteration has been so much in use that my approach in code development has shifted from an experimental implementation to a polished one.
+
+How can computer science help me in reaching my goals?
+  Computer science serves as a development for my problem analysis ability and efficient design of solutions, using different programming languages and tools. This project has also developed my problem-solving skills and increased my understanding of software architecture, which is valuable in reaching my goals. In addition, computational graphics and visualization are also a sort of hands-on approach for implementing theoretical concepts in real-life applications, thus providing a factor that is beneficial both to an educational and professional route.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+  Computational graphics and visualizations provided the means of applying theory into practice and help to sharpen problem-solving skills on the pathway of education. They deepen the grasp of the respective mathematical principles, algorithms, and data structures which are applicable to a multitude of other disciplines. That professionally differentiates me by enabling proof of capability to develop persuasive and interactive graphical applications that cut across many disciplines, such as game development, simulation, or data visualization.
